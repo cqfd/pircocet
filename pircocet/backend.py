@@ -1,5 +1,3 @@
-import collections
-
 names = {}
 def register(name, client):
     if names.get(name):
